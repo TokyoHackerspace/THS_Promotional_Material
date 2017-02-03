@@ -20,3 +20,4 @@ tmp/*
 .railsrc
 .DS*
 .rvmrc
+.DS_Store
